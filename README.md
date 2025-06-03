@@ -1,1 +1,1 @@
-# Inhalt füdr den Datei. 
+# Inhalt für den Datei. 
